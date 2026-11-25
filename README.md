@@ -7,7 +7,7 @@ Sou estudante de Ciência da Computação, tenho 21 anos e sempre estou buscando
 
 ## 📊 Estatísticas do GitHub
 
-![Venilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamyreslana&show_icons=true&theme=radical)
+![Thamyres's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thamyreslana&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thamyreslana&layout=compact&theme=radical)
 
