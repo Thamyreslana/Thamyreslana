@@ -73,4 +73,4 @@ Sou estudante de Ciência da Computação, tenho 21 anos e sempre estou buscando
 
 
 ## 📫 Contato:
-- 🔗 [LinkedIn](www.linkedin.com/in/thamyres-lana-481bb0304)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thamyres-lana-481bb0304/)
